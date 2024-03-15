@@ -1,4 +1,4 @@
-# CUDA-Geometry-Engine
+# CUDA-WalkOnSolver
 
 ### Project Overview
 1. CUDA implementation of [Monte Carlo Geometry Processing](https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html)
