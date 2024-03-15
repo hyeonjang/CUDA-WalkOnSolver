@@ -1,0 +1,6 @@
+[submodule "dependencies/fmt"]
+	path = dependencies/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "demo/dependencies/polyscope"]
+	path = demo/dependencies/polyscope
+	url = https://github.com/nmwsharp/polyscope.git
